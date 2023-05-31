@@ -1,0 +1,13 @@
+.main{
+  width:220px;
+   }
+.left{
+   width:110px;
+   float:left;
+   text-align:left;
+   }
+.right{
+   width:110px;
+   float:right;
+   text-align:right;
+   }
